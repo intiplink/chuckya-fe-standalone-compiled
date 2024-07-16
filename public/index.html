@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <meta content='width=device-width, initial-scale=1' name='viewport'>
+    <title>Masto-FE standalone</title>
+    <link rel="manifest" type="applicaton/manifest+json" href="/manifest.json" />
+
+    <meta name="theme-color" content="#282c37" />
+    <meta content='/getting-started' name='initialPath' />
+
+    <script id='initial-state' type='application/json'>{}</script>
+
+    <link rel="stylesheet" href="/packs/css/core/common.css" />
+    <link rel="stylesheet" href="/packs/css/flavours/glitch/common.css" />
+    <link rel="stylesheet" href="/packs/css/skins/glitch/modern-dark.css" />
+    <link rel="stylesheet" href="/packs/css/flavours/glitch/inert.css" />
+
+    <script src="/verify-state.js"></script>
+
+    <script src="/packs/js/common.js"></script>
+    <script src="/packs/js/locales/glitch/en-json.js"></script>
+    <script src="/packs/js/flavours/glitch/common.js"></script>
+    <script src="/packs/js/flavours/glitch/application.js"></script>
+</head>
+<body class='app-body no-reduce-motion system-font flavour-glitch'>
+<div class='app-holder' data-props='{&quot;locale&quot;:&quot;en&quot;}' id='mastodon'>
+</div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[629],{1812:function(n){n.exports=JSON.parse('{"about.fork_disclaimer":"Glitch-soc - это бесплатное программное обеспечение с открытым исходным кодом, обращенное от Mastodon.","settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
+//# sourceMappingURL=ru-json.js.map
