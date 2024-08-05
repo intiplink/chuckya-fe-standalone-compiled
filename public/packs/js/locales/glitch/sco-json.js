@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[632],{1815:function(n){n.exports=JSON.parse('{"settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[632],{1851:function(n){n.exports=JSON.parse('{"settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
 //# sourceMappingURL=sco-json.js.map

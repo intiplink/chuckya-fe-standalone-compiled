@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[635],{1818:function(n){n.exports=JSON.parse('{"settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[635],{1854:function(n){n.exports=JSON.parse('{"settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
 //# sourceMappingURL=sl-json.js.map

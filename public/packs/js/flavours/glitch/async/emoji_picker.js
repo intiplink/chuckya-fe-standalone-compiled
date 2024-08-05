@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[506],{1933:function(n,r,i){"use strict";i.r(r);var o=i(2077);i.d(r,"Emoji",(function(){return o.a}));var c=i(2084);i.d(r,"Picker",(function(){return c.a}))}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[506],{1974:function(n,r,i){"use strict";i.r(r);var o=i(2114);i.d(r,"Emoji",(function(){return o.a}));var c=i(2121);i.d(r,"Picker",(function(){return c.a}))}}]);
 //# sourceMappingURL=emoji_picker.js.map

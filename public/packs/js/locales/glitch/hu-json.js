@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[597],{1780:function(n){n.exports=JSON.parse('{"settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[597],{1816:function(n){n.exports=JSON.parse('{"settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
 //# sourceMappingURL=hu-json.js.map

@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[644],{1827:function(n){n.exports=JSON.parse('{"settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[644],{1863:function(n){n.exports=JSON.parse('{"settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
 //# sourceMappingURL=th-json.js.map

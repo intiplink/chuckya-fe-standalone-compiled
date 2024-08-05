@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[606],{1789:function(n){n.exports=JSON.parse('{"compose.attach.doodle":"Ssuneɣ-d kra","navigation_bar.keyboard_shortcuts":"Inezgumen n unasiw","settings.auto_collapse_notifications":"Ilɣa","settings.close":"Mdel","settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[606],{1825:function(n){n.exports=JSON.parse('{"compose.attach.doodle":"Ssuneɣ-d kra","navigation_bar.keyboard_shortcuts":"Inezgumen n unasiw","settings.auto_collapse_notifications":"Ilɣa","settings.close":"Mdel","settings.content_warnings":"Content warnings","settings.preferences":"Preferences"}')}}]);
 //# sourceMappingURL=kab-json.js.map

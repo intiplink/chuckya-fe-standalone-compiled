@@ -1,2 +1,2 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[780],{2020:function(n,w,o){"use strict";o.r(w)}},[[2020,0]]]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[780],{2060:function(n,w,o){"use strict";o.r(w)}},[[2060,0]]]);
 //# sourceMappingURL=modern-light.js.map
